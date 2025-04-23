@@ -1,1 +1,1 @@
-In this repo are the .R file used for the analysis carried out in the manuscript 'Evaluation of Machine Learning Models in Sustainability Applications: A Critique of the use of the R2'. The data used to train and test the models can be found in the irish_data.xlsx file.
+In this repo are the .R file used for the analysis carried out in the manuscript 'Rethinking Machine Learning Evaluation in Sustainability Research'. The data used to train and test the models can be found in the irish_data.xlsx file.
